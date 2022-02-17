@@ -6,7 +6,7 @@ This project can be run from the Unity editor. When the user enters game mode, t
 
 ## Visuals
 
-Video demo: https://www.youtube.com/watch?v=C2fEBSaO9Ms
+Video demo: https://www.youtube.com/watch?v=oWXit3XI-CU
 Moments: https://imgur.com/a/tPn5ou4
 
 ## The Storyworld
@@ -16,6 +16,6 @@ The world is set up in an apocalyptic scenario, where people have escaped biowar
 ## Reflection (on the experience)
 
 WIP: https://imgur.com/a/xzuzrDW
-Playtesting: *Please refer to the youtube video above* 
+Playtesting: *Please refer to the youtube video above*
 I think the environment conveyed a contrast between the room and some of the items in the room (the bed and the sofa), which is what I was going for. I was worried that after implementing water floting, the motion from the point of viewof the user would be excessive or sickening, but I don't think it's that bad after testing it. 
 When I first started building the project, I tried to minimize my use of assets as much as possible. I quickly ran into a problem that changed my mind. Whenever I added objects and started manipulating them for my purposes by subdividing and deleting faces, the objects started having unpleasant meshes with transparent faces on certain sides. I also realized that basic objects like planes and cubes would only display the material from the outer side or from a single side. I tried solving this by duplicating objects and setting their faces to opposite sides, but that led to very inconsistent behavior when I played the game. I gave up on building my own house and items and started using assets, which made the building process much smoother. In the future, I will try not to waste too much time focusing on small details and instead use available resources to construct a cohesive environment more efficiently. Maybe learning object design could be a task for later. 
