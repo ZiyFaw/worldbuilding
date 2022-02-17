@@ -1,11 +1,7 @@
 # Your project title
 
-A short description.
+Reflection
 
 ## Technical setup instructions
 
-Some special setup requirements. 
-
-## Special controls 
-
-or other technical need to know things that are crucial to successfully operate/navigate the experience
+This project can be downloaded and run from the Unity editor. When the user enters game mode, they will view the environment from a single fixed location. The user can rotate their view to see other sides by moving the mouse cursor over the screen.
